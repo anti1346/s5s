@@ -7,7 +7,7 @@ yum install -y sshpass bind-utils
 
 #### install
 ```
-git clone https://github.com/anti1346/password-change.git pwch
+sudo curl -fsSL https://raw.githubusercontent.com/anti1346/s5s/main/centos7/change_password/change_password.sh -o pwch.sh
 ```
 
 #### script execute
